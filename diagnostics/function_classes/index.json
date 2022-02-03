@@ -1,0 +1,7 @@
+{
+    "environments": [
+        { "SerializedSimulation": "./linear.json" },
+        { "SerializedSimulation": "./poly2.json"  },
+        { "SerializedSimulation": "./poly3.json"  },
+    ]
+}
