@@ -1,7 +1,7 @@
 {
     "environments": [
-        { "SerializedSimulation": "https://github.com/mrucker/coba_prebuilds/blob/main/function_classes/linear.json?raw=True"},
-        { "SerializedSimulation": "https://github.com/mrucker/coba_prebuilds/blob/main/function_classes/poly2.json?raw=True" },
-        { "SerializedSimulation": "https://github.com/mrucker/coba_prebuilds/blob/main/function_classes/poly3.json?raw=True" }
+        { "SerializedSimulation": "./linear.json"},
+        { "SerializedSimulation": "./poly2.json" },
+        { "SerializedSimulation": "./poly3.json" }
     ]
 }
