@@ -1,2 +1,2 @@
-# coba_published_prebuilds
+# coba_prebuilds
 Publicly available prebuilt environments for coba.
